@@ -123,3 +123,6 @@ n
 
 # Custom
 .idea/
+
+dist/python/.env
+dist/python/.venv

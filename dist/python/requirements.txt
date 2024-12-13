@@ -1,0 +1,12 @@
+attrs==24.2.0
+cattrs==24.1.2
+exceptiongroup==1.2.2
+importlib_resources==6.4.5
+jsii==1.105.0
+mexc-sdk @ file:///Users/ali/Documents/scraping-mexc/mexc-api-sdk/dist/python/mexc_sdk-1.0.0-py3-none-any.whl#sha256=76bb2c773a201023fa0c4153259fdf994e5810df8462080b3e8fcb4eaec95b38
+publication==0.0.3
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+six==1.17.0
+typeguard==4.4.1
+typing_extensions==4.12.2
